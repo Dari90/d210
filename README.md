@@ -2,11 +2,7 @@
 
 Из папки с файлами пишем команду python server.py
 
-http://localhost:8090/
-
-http://localhost:8090/success 
-
-http://localhost:8090/fail
+Копируем localhost и переходим по нему 
 
 Heroku:
 
